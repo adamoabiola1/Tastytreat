@@ -197,7 +197,7 @@ header .icons #menu-bars{
 }
 
 .swiper-pagination-bullet-active{
-    background:var(--green);
+    background: var(--green);
 }
 
 .home .home-slider .slide .content h3{
